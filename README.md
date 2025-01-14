@@ -1,2 +1,2 @@
 # linux-palvelimet-2025-kurssi
-Haaga-helian Linux palvelimet 2025 kurssi
+Tämä repo sisältää Haaga-Helian Linux palvelimet kurssin tehtäviä.
